@@ -19,6 +19,8 @@ export class CreateCharacterComponent implements OnInit {
     this.swService = swService;
   }
 
+  // sample comment
+
   ngOnInit() {
   }
 
